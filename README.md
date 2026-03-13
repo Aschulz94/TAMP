@@ -15,7 +15,7 @@
 </p>
  
  <p align="center">
-  <img src="assets/GitHubHeader2.gif" width="100%">
+  <img src="Figure1_SICB2026" width="100%">
 </p>
 
 
