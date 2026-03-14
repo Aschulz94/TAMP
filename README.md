@@ -2,8 +2,13 @@
  <h1 align="center">TAMP: Tactile Accessible Microscopy Printing Workflow</h1>
 
 <p align="center">
-  <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz</strong></a>
-    <a href="https://is.mpg.de/person/lsmith"><strong>Natalia Vazquez</strong></a> ·
+Robert Faulkner<sup>1</sup>, Natalia Gonzalez-Vazquez<sup>2</sup>, Victoria Gamez<sup>3,4</sup>, Karly E. Cohen<sup>5</sup>, Gunther Richter<sup>2</sup>, Abigale Stangl<sup>3,4*</sup>, Andrew K. Schulz<sup>4,6*</sup>
+<sup>1</sup> Robotics Centralized Scientific Facility, Max Planck Institute for Intelligent Systems (MPI-IS), Stuttgart, Germany  
+<sup>2</sup> Materials Centralized Scientific Facility, MPI-IS, Stuttgart, Germany  
+<sup>3</sup> School of Industrial Design, Georgia Institute of Technology, Atlanta, GA, USA  
+<sup>4</sup> Tactile Media Alliance, Atlanta, GA, USA  
+<sup>5</sup> Friday Harbor Laboratories, University of Washington, Friday Harbor, WA, USA  
+<sup>6</sup> Haptic Intelligence Department, MPI-IS, Stuttgart, Germany
 </p>
 
 <p align="center">
@@ -27,20 +32,9 @@
 
 ## General Information
 
-**Authors**
 
-Robert Faulkner<sup>1</sup>, Natalia Gonzalez-Vazquez<sup>2</sup>, Victoria Gamez<sup>3,4</sup>,  
-Karly E. Cohen<sup>5</sup>, Gunther Richter<sup>2</sup>,  
-Abigale Stangl<sup>3,4*</sup>, Andrew K. Schulz<sup>4,6*</sup>
 
-**Affiliations**
 
-<sup>1</sup> Robotics Centralized Scientific Facility, Max Planck Institute for Intelligent Systems (MPI-IS), Stuttgart, Germany  
-<sup>2</sup> Materials Centralized Scientific Facility, MPI-IS, Stuttgart, Germany  
-<sup>3</sup> School of Industrial Design, Georgia Institute of Technology, Atlanta, GA, USA  
-<sup>4</sup> Tactile Media Alliance, Atlanta, GA, USA  
-<sup>5</sup> Friday Harbor Laboratories, University of Washington, Friday Harbor, WA, USA  
-<sup>6</sup> Haptic Intelligence Department, MPI-IS, Stuttgart, Germany
 
 This repository contains a workflow for simulating various whisker dynamics and statics as described in the [paper](https://www.science.org/doi/10.1126/science.adx8981). For related data (e.g., indentation, SEM, microCT), please refer to the <a href="https://doi.org/10.17617/3.ROQPWZ">Edmond data repository</a> (repository will be available upon paper acceptance). This repository demonstrates a streamlined workflow for analyzing **functionally graded whiskers** under various loading scenarios using the nonlinear finite element platform **Abaqus**, with minimal manual intervention. 
 
