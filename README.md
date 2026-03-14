@@ -14,7 +14,8 @@ Robert Faulkner, Natalia Gonzalez-Vazquez, Victoria Gamez, Karly E. Cohen, Gunth
 </p>
  
  <p align="center">
-  <img src="Figure1_SICB2026.png" width="100%">
+
+  <img src="Figure1_SICB2026.png" alt="Image of the workflow for the TAMP design. The workflow begins with the microscopy technique box showing a stereo microscopy, SEM, and TEM. An arrow connects the microscopy technique box with an image acquisition toolbox which includes screen captures of scanning electron and transmission electron microscopy images showing monochrome and multichrome images from SHG and histology. An arrow connects the image acqusition box to an image processing box showing the steps of grayscale converstion, and adding filters. This box connects to the 3D file creation box which is done in Bambu Lab with customizing the layer height and length scale of the image. The 3D file creation box is connected with two boxes on teh right including the workflow of adding these lithographs as 3D data files in repositories as well as a 3D printable lithograph for various means." width="100%">
 </p>
 
 
