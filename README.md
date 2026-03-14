@@ -26,22 +26,16 @@ Robert Faulkner, Natalia Gonzalez-Vazquez, Victoria Gamez, Karly E. Cohen, Gunth
 
 ## General Information
 
-
-
-
-
-This repository contains a workflow for simulating various whisker dynamics and statics as described in the [paper](https://www.science.org/doi/10.1126/science.adx8981). For related data (e.g., indentation, SEM, microCT), please refer to the <a href="https://doi.org/10.17617/3.ROQPWZ">Edmond data repository</a> (repository will be available upon paper acceptance). This repository demonstrates a streamlined workflow for analyzing **functionally graded whiskers** under various loading scenarios using the nonlinear finite element platform **Abaqus**, with minimal manual intervention. 
+This workflow contains the workflow for creating cheap, open-source, and small size 3D printable lithographs described in the [paper](https://www.science.org/doi/10.1126/science.adx8981): "A low-data, low-cost, and open-source workflow for 3D printing lithographs for digital accessibility of microscopy images". For related data (e.g., 3D files used in this project), please refer to the <a href="https://doi.org/10.17617/3.ROQPWZ">Edmond data repository</a> (repository will be available upon paper acceptance). This repository demonstrates a streamlined workflow for converting scanning electron microscopy (SEM), transmission electron microscopy (TEM), second harmonic generation microscopy (SHG), and brightfield light microscopy
 
 💡 Tip: You can switch between [Light and Dark mode](https://github.com/settings/appearance) in your GitHub profile settings for better readability. This repo is designed to be viewed in Light mode.
 
-Running any script in this directory initiates a fully automated pipeline that:
-- Sets up simulations programmatically in **MATLAB** (including meshing, material properties, and boundary conditions),
-- Executes simulations via command-line calls to Abaqus,
-- Processes simulation output, and
-- Generates publication-ready figures from the results.
+Please read through this repository in its entirity and if there are any issues/comments/please send a pull request. This repository
+- Sets up the dependencies for the TAMP workflow.
+- Shows example files from microscopy image to 3D texture mapping.
+- Shows example 3D prints that can be done with three printers: Stratasys J835, Carbon M2, and Bamboo Labs X1E printers. 
 
-These tools reproduce results from the associated paper or enable analysis of related problems. For academic use, the **[Abaqus Learning Edition](https://www.3ds.com/edu/education/students/solutions/abaqus-le)** (free, node-limited) is a suitable alternative to the full commercial license, as long as mesh sizes remain small. Full implementation details are provided in the main paper's **[Supplemental Methods](https://www.science.org/doi/10.1126/science.adx8981)**.
-
+This is the first version of this repository and we will continue to augment and update this workflow for better digital accessibility and more realistic (both tactile-ly and visually) 3D representation of microscopy images. 
 ---
 
 ## Features
