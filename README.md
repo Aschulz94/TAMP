@@ -37,6 +37,7 @@ Please read through this repository in its entirity and if there are any issues/
 - Shows example 3D prints that can be done with three printers: Stratasys J835, Carbon M2, and Bamboo Labs X1E printers. 
 
 This is the first version of this repository and we will continue to augment and update this workflow for better digital accessibility and more realistic (both tactile-ly and visually) 3D representation of microscopy images. 
+
 ---
 
 ## Features
