@@ -194,11 +194,10 @@ This project is licensed under the GNU GPL version 3 - see the [LICENSE](https:/
 
 ## Copyright
 
-© 2025, Max Planck Society 
+© 2026, Max Planck Society 
 
 ## Acknowledgements
-The authors thank the International Max Planck Research School for Intelligent Systems, [IMPRS-IS](https://imprs.is.mpg.de/) for supporting LTS and AKS. We thank J. Burns and [J.-C. Passy](https://github.com/jcpassy) for his assistance in preparing the content for this GitHub. The authors thank N. Rokhmanova for her [ARIADNE repo](https://github.com/nrokh/ARIADNE) inspiring this ReadMe. Thanks to [Katherine J. Kuchenbecker](https://is.mpg.de/~kjk) for support and feedback.
-
+The authors thank the Tactile Media Alliance for supporting the start of this work. The authors thank the International Max Planck Research School for Intelligent Systems, [IMPRS-IS](https://imprs.is.mpg.de/) for supporting AKS. We thank J. Burns and [J.-C. Passy](https://github.com/jcpassy) for his assistance in preparing the content for this GitHub. The authors thank N. Rokhmanova for her [ARIADNE repo](https://github.com/nrokh/ARIADNE) inspiring this ReadMe. AKS thanks the Alexander von Humboldt foundation for supporting this work and the Max Planck Society. 
 ## Contact 
 
 This code repository was implemented by [Lawrence T. Smith](https://github.com/LawSmith408) and [Andrew Schulz](https://github.com/Aschulz94). 
