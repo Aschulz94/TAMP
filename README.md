@@ -18,32 +18,6 @@ Robert Faulkner, Natalia Gonzalez-Vazquez, Victoria Gamez, Karly E. Cohen, Gunth
   <img src="Figure1_SICB2026.png" alt="Image of the workflow for the TAMP design. The workflow begins with the microscopy technique box showing a stereo microscopy, SEM, and TEM. An arrow connects the microscopy technique box with an image acquisition toolbox which includes screen captures of scanning electron and transmission electron microscopy images showing monochrome and multichrome images from SHG and histology. An arrow connects the image acqusition box to an image processing box showing the steps of grayscale converstion, and adding filters. This box connects to the 3D file creation box which is done in Bambu Lab with customizing the layer height and length scale of the image. The 3D file creation box is connected with two boxes on teh right including the workflow of adding these lithographs as 3D data files in repositories as well as a 3D printable lithograph for various means." width="100%">
 </p>
 
-
-
-
-<p align="center">
-  
-</p>
-
-<h1 align="center">TAMP: Tactile Accessible Microscopy Printing Workflow</h1>
-
-<p align="center">
-Robert Faulkner, Natalia Gonzalez-Vazquez, Victoria Gamez, Karly E. Cohen, Gunther Richter, Abigale Stangl, Andrew K. Schulz
-</p>
-
-<p align="center">
-  <a href="https://www.science.org/doi/10.1126/science.adx8981">
-    <img src="https://img.shields.io/badge/Science-Paper-B31B1B.svg" alt="Science paper">
-  </a>
-  <a href="https://doi.org/10.17617/3.ROQPWZ">
-    <img src="https://img.shields.io/badge/Data%20Repository-Edmond-005BBB.svg" alt="Edmond Repository">
-  </a>
-</p>
-
-<p align="center">
-  <img src="Figure1_SICB2026.png" alt="Image of the workflow for the TAMP design. The workflow begins with the microscopy technique box showing a stereo microscopy, SEM, and TEM. An arrow connects the microscopy technique box with an image acquisition toolbox which includes screen captures of scanning electron and transmission electron microscopy images showing monochrome and multichrome images from SHG and histology. An arrow connects the image acquisition box to an image processing box showing the steps of grayscale conversion, and adding filters. This box connects to the 3D file creation box which is done in Bambu Lab with customizing the layer height and length scale of the image. The 3D file creation box is connected with two boxes on the right including the workflow of adding these lithographs as 3D data files in repositories as well as a 3D printable lithograph for various means." width="100%">
-</p>
-
 ## General Information
 
 This repository contains the workflow for creating cheap, open-source, and small-size 3D printable lithographs described in the paper: **"A low-data, low-cost, and open-source workflow for 3D printing lithographs for digital accessibility of microscopy images"** (presented at SICB 2026). For related data (e.g., 3D files used in this project), please refer to the <a href="https://doi.org/10.17617/3.ROQPWZ">Edmond data repository</a> (repository will be available upon paper acceptance).
