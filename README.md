@@ -1,6 +1,19 @@
 
  <h1 align="center">TAMP: Tactile Accessible Microscopy Printing Workflow</h1>
+**Authors**
 
+Robert Faulkner<sup>1</sup>, Natalia Gonzalez-Vazquez<sup>2</sup>, Victoria Gamez<sup>3,4</sup>,  
+Karly E. Cohen<sup>5</sup>, Gunther Richter<sup>2</sup>,  
+Abigale Stangl<sup>3,4*</sup>, Andrew K. Schulz<sup>4,6*</sup>
+
+**Affiliations**
+
+<sup>1</sup> Robotics Centralized Scientific Facility, Max Planck Institute for Intelligent Systems (MPI-IS), Stuttgart, Germany  
+<sup>2</sup> Materials Centralized Scientific Facility, MPI-IS, Stuttgart, Germany  
+<sup>3</sup> School of Industrial Design, Georgia Institute of Technology, Atlanta, GA, USA  
+<sup>4</sup> Tactile Media Alliance, Atlanta, GA, USA  
+<sup>5</sup> Friday Harbor Laboratories, University of Washington, Friday Harbor, WA, USA  
+<sup>6</sup> Haptic Intelligence Department, MPI-IS, Stuttgart, Germany
 <p align="center">
   <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz</strong></a>
     <a href="https://is.mpg.de/person/lsmith"><strong>Natalia Vazquez</strong></a> ·
